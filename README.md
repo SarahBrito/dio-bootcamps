@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="logo-dio.png" width="300">
+    <img src="assets/logo-dio.png" width="300">
+    <br>
     <p>
         Repositório criado para compartilhar desafios e códigos realizados nos bootcamps da <a href="https://www.dio.me/" target="_blank">Digital Innovation One</a>
     </p>
@@ -11,7 +12,7 @@
 
 <br>
 
-<table border="1">
+<table>
     <tr align="center">
         <td>Bootcamps</td>
         <td>Status</td>
