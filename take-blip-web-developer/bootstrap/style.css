@@ -1,0 +1,86 @@
+
+
+body {
+  
+    background: #D6E8F5;
+   
+}
+
+.navbar {
+    
+    background: #0093E9;
+    padding: 10px 50px;
+}
+
+.navbar-brand img{
+   width: 70px;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #D6E8F5;
+}
+
+.quem-somos {
+    background: #0093E9;
+    border-radius: 0 0 40% 40%;
+    color: #D6E8F5;
+}
+
+.quem-somos p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #D6E8F5;
+}
+
+.margin {
+    padding: 50px 0;
+}
+
+.quem-somos img{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin: 30px 0;
+    -webkit-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    }
+
+.parceiros {
+    background: #D6E8F5;
+    color: #0093E9;
+    padding-bottom: 100px;
+}
+
+.parceiros img {
+    width: 250px;
+    border-radius: 8px;
+    margin: 30px 0;
+    -webkit-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+}
+.servicos {
+    background: #EFF1EE;
+}
+
+.servicos h3{
+    padding-bottom: 30px;
+    color: #0093E9;
+}
+
+.servicos img{
+    width: 250px;
+    margin: 30px 0;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 12px -6px rgba(0,0,0,0.75);
+}
+.footer {
+    background: #0093E9;
+    color: #D6E8F5;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 50px;
+}
