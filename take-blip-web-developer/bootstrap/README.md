@@ -1,7 +1,7 @@
 <h1>Bootstrap</h1>
 
 <p>
-    Página desenvolvida no curso constrindo páginas para internet com Bootstrap.
+    Página desenvolvida no curso Construindo páginas para internet com Bootstrap.
 </p>
 
 <h2>Links úteis</h2>
